@@ -1,4 +1,8 @@
-# Fentimon-s-MC-Server
-Community MC Server
+# Fentimon's Community MC Server
 
-TEst
+Hallo liebe Fentilatoren,
+
+Willkommen auf dem GitHub des Minecraft Servers. 
+Hier findet ihr alle Infos zum Server, Projekte kommmende Features und Hilfestellungen.
+
+Grüße Tobi
